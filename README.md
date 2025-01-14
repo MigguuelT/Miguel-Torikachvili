@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Macafi-das-Crackulinda
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning python, java and statistics.
+- 🌱 I’m currently learning python, data wrangling and statistics.
 - 💞️ I’m looking to collaborate on college projects.
-- 📫 How to reach me ...
+- 📫 How to reach me ... Follow me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 
