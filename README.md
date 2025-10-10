@@ -23,7 +23,7 @@ Aqui estão algumas das tecnologias e conceitos com os quais estou trabalhando:
 
 ## 📫 Contato
 
-- **LinkedIn:** ([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/miguel-t-a8890521a/))
-- **Email:** migueltori@yahoo
+- **LinkedIn:** https://www.linkedin.com/in/migueltorikachvili/
+- **Email:** migueltori@yahoo.com
 
 ---
