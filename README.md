@@ -19,7 +19,7 @@ Aqui estão algumas das tecnologias e conceitos com os quais estou trabalhando:
 - **Linguagens:** Python | R
 - **Banco de Dados:** SQL
 - **Análise e Visualização:** Pandas | Matplotlib | Seaborn | Power BI | Looker Studio
-- **Conceitos:** Estatística | Probabilidade | Machine Learning (básico)
+- **Conceitos:** Estatística | Probabilidade | Machine Learning & Redes Neurais
 
 ## 📫 Contato
 
